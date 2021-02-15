@@ -1,4 +1,4 @@
-# Producer-Consumer-Problem
+# Producer-Consumer Problem
 ## Program description:
 Implementation of the solution to the producer-consumer problem in a version that allows simultaneous work of many producers and many consumers. The exchange of information between the processes is carried out with the use of shared memory blocks. Individual producers and consumers are independent processes,
 which can be activated at any time. Processing time is variable. For each producer, the number of products that are to be produced and added to the buffer is given during the start-up. After placing in
